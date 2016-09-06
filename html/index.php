@@ -12,6 +12,8 @@
    			$yourbrowser = "Your browser: " . $ua['name'] . " " . $ua['version'] . 
    			" on " .$ua['platform'] . " reports: <br >" . $ua['userAgent'];
    
+        // Dies ist ein test
+
    			echo $yourbrowser;
       	?>
    </div>
